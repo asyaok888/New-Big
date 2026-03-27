@@ -1,6 +1,7 @@
 @import "tokens.css";
 @import "reset.css";
 
+/* Updated */
 .container {
     max-width: 800px;
     margin: 0 auto;
